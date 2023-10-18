@@ -1,16 +1,16 @@
+<div align="center">
+  
 ### Hi there 👋
 
-<!--
-**MsTarun1903/MsTarun1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name Is [Tarun MS].
 
-Here are some ideas to get you started:
+ Learning Fullstack Development
+  
+---
+### 🔖 My Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://komarev.com/ghpvc/?username=MsTarun1903i&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MsTarun1903&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
